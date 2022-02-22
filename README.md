@@ -1,3 +1,3 @@
 # M293
-M293
-*Ich möchte einen Onlineschuhshop erstellen.
+
+Ich möchte einen Onlineschuhshop erstellen.
